@@ -1,0 +1,63 @@
+
+body{
+    padding: 0;
+    background: #FF003F
+
+}
+td{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #E6E6FA;
+}
+.mole{
+    background-image:url("https://www.nicepng.com/png/full/424-4248926_deluxe-minnie-mouse-cartoon-face-mickey-mouse-clip.png");;
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+h1{
+    font-size: 2.4rem;
+    text-decoration: underline;
+    text-align: center;
+    color: lavenderblush;
+}
+#start{
+    border: none;
+    background-color: aquamarine;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.3rem;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 12px;
+}
+#reset{
+    border: none;
+    background-color:cornflowerblue;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.3rem;
+    padding: 5px;
+    cursor: pointer;
+    margin: 12px;
+}
+table{
+    margin: auto;
+}
+h4{
+    margin: 7px;
+    font-size: 1.9rem;
+    color:lightyellow;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
