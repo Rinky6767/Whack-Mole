@@ -1,5 +1,8 @@
 # Project Title
-Whack a Mole(Mickey) :)
+Whack a Mole  
+
+![Mickey](https://img.shields.io/badge/Mickey-E34F26??style=for-the-badge&logo=appveyor&logo=mickey3&logoColor=white)  
+ 
 
 # Description
  Project entitled Whack a Mole, developed using only HTML, CSS and JavaScript. You can play this on any kind of device.
@@ -14,6 +17,6 @@ Whack a Mole(Mickey) :)
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
  # Installing
- * You can clone the repository, using the command: git clone url;
+ * You can clone the repository, using the command: git clone https://github.com/Rinky6767/Whack-Mole.git;
  
  * You can View the Website [Here](https://frabjous-faun-2627c1.netlify.app)
